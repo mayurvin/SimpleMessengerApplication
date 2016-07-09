@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\talem\AndroidStudioProjects\SimpleMessenger\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="3738cca39dc3a1fc78bd586cbc94effa36ee509c">
+        <dex dex="C:\Users\talem\AndroidStudioProjects\SimpleMessenger\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dc6d0d16d3681ed8d86f25f527a2cb0cc75db20e.jar" />
+    </item>
+    <item
+        jar="C:\Users\talem\AndroidStudioProjects\SimpleMessenger\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="9759dc0d63744a0ce8f1877dfac3f17292bf2cb5">
+        <dex dex="C:\Users\talem\AndroidStudioProjects\SimpleMessenger\app\build\intermediates\pre-dexed\debug\instant-run_1adc4f1497bf12147f74917e5271a59121abd825.jar" />
+    </item>
+
+</items>
